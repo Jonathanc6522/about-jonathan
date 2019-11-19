@@ -1,25 +1,29 @@
-I'm Jonathan Cutler 
+# I'm **Jonathan Cutler**
 
-My school email is Jonathanc6522@hstat.org
+ ###### My school email is Jonathanc6522@hstat.org
 
-I go to HSTAT in NYC, and some classes that I enjoy are SEP, digital photography, and AP lang & comp.
+I go to HSTAT in NYC, and some classes that I enjoy are:
+
+---SEP    
+---Digital Photography  
+---AP Lang. & Comp.
 
 My schedule is:
 
-Algebra
+1. Algebra
 
-SEP
+1. SEP
 
-US History
+1. US History
 
-AP Lang & Comp.
+1. AP Lang & Comp.
 
-Yoga
+1. Yoga
 
-Physics
+1. Physics
 
-Lunch
+1. Lunch
 
-Digital Photography
+1. Digital Photography
 
-I like to draw, and play around with p5js in my spare time.
+*I like to draw, and play around with p5js in my spare time.*
